@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:"/prev-9qk27/_next/static/chunks/42onvq6nokjl2.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:"/prev-9qk27/_next/static/chunks/17f_2jt-q96wo.js"
+6:"/prev-9qk27/_next/static/chunks/2ylzouvfp2781.js"
+7:I[87556,["$2","$5","$6"],"Pagina404"]
+b:"$Sreact.suspense"
+c:"/prev-9qk27/_next/static/chunks/0fl26vb6z8u5-.js"
+d:I[554,["$2","$c","$6"],"CriarConta"]
+e:I[97367,["$2"],"OutletBoundary"]
+10:"ViewportBoundary"
+11:I[97367,["$2"],"$10"]
+13:"MetadataBoundary"
+14:I[97367,["$2"],"$13"]
+16:I[68027,["$2"],"default",1]
+:HL["/prev-9qk27/_next/static/chunks/3-7mbhhvcy5dz.css","style"]
+:HL["/prev-9qk27/_next/static/media/03fc1b4a8d284b5e-s.p.0wiir8udbzjvx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/prev-9qk27/_next/static/media/5fe5f57ee794eff4-s.p.04t4-lijcsqd8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/prev-9qk27/_next/static/media/f06bf9da926bae75-s.p.2874ccu1_u7jf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/prev-9qk27/_next/static/chunks/1qwyzq8sllr2t.css","style"]
+:HL["/prev-9qk27/_next/static/chunks/245cf6sdc0ln5.css","style"]
+9:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$b",null,{"fallback":["$","div",null,{"style":{"minHeight":"100dvh","background":"var(--nevoa)"},"aria-busy":"true"}],"children":["$","$Ld",null,{}]}],[["$","link","0",{"rel":"stylesheet","href":"/prev-9qk27/_next/static/chunks/1qwyzq8sllr2t.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/prev-9qk27/_next/static/chunks/0fl26vb6z8u5-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/prev-9qk27/_next/static/chunks/2ylzouvfp2781.js","async":true,"nonce":"$undefined"}]],["$","$Le",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":"cadastro","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","cadastro",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/prev-9qk27/_next/static/chunks/3-7mbhhvcy5dz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/prev-9qk27/_next/static/chunks/42onvq6nokjl2.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"pt-BR","className":"Atx9QG_variable J4ptyG_variable _2lIkVa_variable","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/prev-9qk27/_next/static/chunks/1qwyzq8sllr2t.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/prev-9qk27/_next/static/chunks/245cf6sdc0ln5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":"$L15"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$16",[["$","link","0",{"rel":"stylesheet","href":"/prev-9qk27/_next/static/chunks/3-7mbhhvcy5dz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"JhBALdT12zYlqpV_FUlP4"}
+9:C
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#ECEEEA"}]]
+17:I[27201,["$2"],"IconMark"]
+f:null
+15:[["$","title","0",{"children":"Criar conta | Central do Contratante"}],["$","meta","1",{"name":"description","content":"Tudo pro seu show, num link só. Rider, press kit, redes e contato da produção sempre atualizados para o contratante."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"Central do Contratante"}],["$","meta","4",{"property":"og:description","content":"Tudo pro seu show, num link só."}],["$","meta","5",{"property":"og:locale","content":"pt_BR"}],["$","meta","6",{"property":"og:image","content":"https://centraldocontratante.com.br/og/plataforma.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Central do Contratante"}],["$","meta","12",{"name":"twitter:description","content":"Tudo pro seu show, num link só."}],["$","meta","13",{"name":"twitter:image","content":"https://centraldocontratante.com.br/og/plataforma.png"}],["$","meta","14",{"name":"twitter:image:width","content":"1200"}],["$","meta","15",{"name":"twitter:image:height","content":"630"}],["$","link","16",{"rel":"icon","href":"/prev-9qk27/icon.png?icon.3j63bd2dzgty5.png","sizes":"48x48","type":"image/png"}],["$","link","17",{"rel":"apple-touch-icon","href":"/prev-9qk27/apple-icon.png?apple-icon.33mnp0m602io7.png","sizes":"180x180","type":"image/png"}],["$","$L17","18",{}]]
